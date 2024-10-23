@@ -65,7 +65,7 @@ function App() {
 
         </div>
       </div>
-      <footer></footer>
+
     </>
   );
 }
