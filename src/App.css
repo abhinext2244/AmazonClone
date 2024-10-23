@@ -1,0 +1,31 @@
+header{
+  border:1px dashed red;
+  background:#131921
+}
+.a_header_top{
+  height:60px;
+  border:1px dashed brown;
+}
+.a_header_bottom{
+  height:40px;
+  border:1px solid yellow;
+}
+.a_main{
+  height:4848px;
+  border:dashed blue;
+  background: #E3E6E6;
+}
+.main1{
+  height:600px;
+  border:1px dashed gray;
+}
+.main2{
+  height:420px;
+  background-color: #131921;
+}
+footer{
+  height:227px;
+  border:dashed green;
+  background: #131A22;
+  
+}
