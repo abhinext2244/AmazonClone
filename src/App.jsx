@@ -60,7 +60,7 @@ function App() {
           </div>
         </div>
         {/* main1 end */}
-        {/* main2 start */}
+     
         <div className="main2 w-100 border position-absolute top-50  start-0">
 
         </div>
